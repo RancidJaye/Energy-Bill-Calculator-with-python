@@ -22,23 +22,6 @@ This repository contains a **Python-based Energy Bill Calculator** that helps us
 
 <h2>Project Walkthrough:</h2>
 
-<p align="center">
-Launching the calculator: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Energy Calculator UI"/>
-<br />
-<br />
-Inputting appliance details:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="User Input"/>
-<br />
-<br />
-Analyzing energy consumption: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Data Analysis"/>
-<br />
-<br />
-Visualizing energy usage trends:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Graph Output"/>
-</p>
-
 <h2>Step-by-Step Implementation</h2>
 
 <h3>1. Installation & Setup</h3>
